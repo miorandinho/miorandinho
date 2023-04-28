@@ -1,2 +1,2 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Ariel, and my nickname is "miorando"!
+# 👋 Hello, Devs!
+## Seja bem vindo ao meu perfil! Estou me aprofundando no meundo da programação com os cursos da 
