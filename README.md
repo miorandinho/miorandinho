@@ -4,7 +4,7 @@
 
 
 
-## 👦 Quem sou eu/
+## 👦 Quem sou eu?
 
 Me chamo Ariel Luiz Miorando! Muito prazer, no momento estou estudando a linguagem de programação JavaScript.
 Tenho 14 anos, sou estudante, e meu foco é, futuramente, trabalhar na área de programação.
