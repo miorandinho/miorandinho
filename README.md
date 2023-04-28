@@ -18,7 +18,7 @@ Hoje em dia, minha nova paixão é a programação! Eu quando vi, não entendi b
 Além disso, eu gosto de:
 
 - 📷 Editar algumas fotos, como fazer algumas thumbnails para meu canal (quando posto).
-- 🎮 Jogar Counter Strike : Global Offensive.
+- 🎮 Jogar Counter Strike : Global Offensive, Minecraft, Stardew Valley, entre outros.
 - 💬 Conversar com pessoas que gostam dos mesmos assuntos que eu.
 - 📺 Assistir animes!
 
