@@ -23,7 +23,7 @@ Além disso, eu gosto de:
 - 📺 Assistir animes!
 
 
-## Contatos:
+## 📧 Contatos:
 
 Aqui abaixo deixo algumas de minhas redes sociais, cao queira entrar em contato comigo, ou me acomapanhar no YouTube, fique a vontade!
 
