@@ -25,7 +25,7 @@ Além disso, eu gosto de:
 
 ## 📧 Contatos:
 
-Aqui abaixo deixo algumas de minhas redes sociais, cao queira entrar em contato comigo, ou me acomapanhar no YouTube, fique a vontade!
+Aqui abaixo deixo algumas de minhas redes sociais, caso queira entrar em contato comigo, ou me acomapanhar no YouTube, fique a vontade!
 
 <div>
 <a href="https://www.youtube.com/channel/UCjz4lbV_q55lrTiMmRUVPow" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
