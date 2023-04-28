@@ -30,7 +30,7 @@ Aqui abaixo deixo algumas de minhas redes sociais, caso queira entrar em contato
 <div>
 <a href="https://www.youtube.com/channel/UCjz4lbV_q55lrTiMmRUVPow" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/piorandinho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href = "mailto:contatoarielmiorando@gmail.com-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
 ![octocat-1682695106929](https://user-images.githubusercontent.com/125283126/235194784-62f7fc90-6d9a-4b53-9530-ef6e05e75dc7.png)
