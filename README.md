@@ -17,7 +17,7 @@ Hoje em dia, minha nova paixão é a programação! Eu quando vi, não entendi b
 
 Além disso, eu gosto de:
 
-- 📷 Editar algumas fotos, como fazer algumas thumbnails para meu canal (quando posto).
+- 📷 Editar algumas fotos, como fazer algumas thumbnails.
 - 🎮 Jogar Counter Strike : Global Offensive, Minecraft, Stardew Valley, entre outros.
 - 💬 Conversar com pessoas que gostam dos mesmos assuntos que eu.
 - 📺 Assistir animes!
@@ -25,10 +25,9 @@ Além disso, eu gosto de:
 
 ## 📧 Contatos:
 
-Aqui abaixo deixo algumas de minhas redes sociais, caso queira entrar em contato comigo, ou me acomapanhar no YouTube, fique a vontade!
+Aqui abaixo deixo algumas de minhas redes sociais, caso queira entrar em contato comigo, fique a vontade!
 
 <div>
-<a href="https://www.youtube.com/channel/UCjz4lbV_q55lrTiMmRUVPow" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/piorandinho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contatoarielmiorando@gmail.com-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
