@@ -29,6 +29,7 @@ Aqui abaixo deixo algumas de minhas redes sociais, caso queira entrar em contato
 
 <div>
 <a href="https://instagram.com/piorandinho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 <a href = "mailto:contatoarielmiorando@gmail.com-aqui">https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white 
 </div>
 
