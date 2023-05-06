@@ -21,6 +21,7 @@ Além disso, eu gosto de:
 - 🎮 Jogar Counter Strike : Global Offensive, Minecraft, Stardew Valley, entre outros.
 - 💬 Conversar com pessoas que gostam dos mesmos assuntos que eu.
 - 📺 Assistir animes!
+- 😺 Gatinhos/as!
 
 
 ## 📧 Contatos:
