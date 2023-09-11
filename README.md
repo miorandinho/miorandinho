@@ -1,5 +1,5 @@
 # 👋 Hello, Devs!
-## Seja bem vindo ao meu perfil! Estou me aprofundando no mundo da programação com os cursos da Alura!
+## Seja bem vindo ao meu perfil!
 
 <div>
 <a href="https://github.com/miorandinho">
@@ -9,21 +9,20 @@
 
 ## 👦 Quem sou eu?
 
-Me chamo Ariel Luiz Miorando! Muito prazer, Tenho 14 anos, sou estudante, e no momento estou estudando a linguagem de programação JavaScript,
-meu foco é, futuramente, trabalhar na área de programação!
-Aqui em meu github, postarei alguns projetos da minha evolução com o JavaScript e outras linguagens, mas por enquanto somente o JavaScript mesmo!
+Me chamo Ariel Luiz Miorando! Muito prazer, Tenho 15 anos, sou estudante, e no momento estou estudando a linguagem de programação Python,
+e meu foco é, futuramente, trabalhar na área de Engenheiro de Software ou algo relacionado ao mundo tech!
+Aqui em meu github, postarei alguns projetos da minha evolução com algumas linguagens de programação!
  
 ## 💜 Minhas paixões!
 
-Sou apaixonado desde sempre com computadores, jogos, e outras coisas no mundo da tecnologia, eu posso dizer que eu nasci com um computador em minha frente kkkkkk.
+Sou apaixonado desde sempre com computadores, jogos, e outras coisas no mundo da tecnologia, eu posso dizer que eu nasci com um computador em minha frente KKKKKK.
 Hoje em dia, minha nova paixão é a programação! Eu quando vi, não entendi bulhufas, mas agora, eu já consigo entender mais sobre, e fiquei apaixonado nesse assunto.
 
 Além disso, eu gosto de:
 
 - 📷 Editar algumas fotos, como fazer algumas thumbnails.
-- 🎮 Jogar Counter Strike : Global Offensive, Minecraft, Stardew Valley, entre outros.
+- 🎮 Jogar jogos de FPS, RPG ou Mundo Aberto.
 - 💬 Conversar com pessoas que gostam dos mesmos assuntos que eu.
-- 📺 Assistir animes!
 - 😺 Gatinhos/as!
 
 
